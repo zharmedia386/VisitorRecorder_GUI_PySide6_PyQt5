@@ -1,4 +1,4 @@
-# BookstoreApp_GUI_PySide6_PyQt5 <img src="https://seeklogo.com/images/Q/qt-logo-1631E0218A-seeklogo.com.png" alt="drawing" width="43"/>
+# VisitorRecorder_GUI_PySide6_PyQt5 <img src="https://seeklogo.com/images/Q/qt-logo-1631E0218A-seeklogo.com.png" alt="drawing" width="43"/>
 <p>
   <img src="https://img.shields.io/badge/python-3.6%2B-green">
   <img src="https://img.shields.io/badge/license-MIT%20-blue.svg">
